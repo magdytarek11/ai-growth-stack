@@ -12,34 +12,10 @@ A curated collection of powerful AI-powered APIs for website optimization, SEO, 
 
 ## 📊 Repository Stats
 
-<table>
-<tr>
-<td align="center" style="background-color: #2d2d2d; padding: 10px; border-radius: 5px; margin: 5px;">
-<strong style="color: white;">APIS</strong>
-</td>
-<td align="center" style="background-color: #0066ff; padding: 10px; border-radius: 5px; margin: 5px;">
-<strong style="color: white;">6</strong>
-</td>
-<td align="center" style="background-color: #2d2d2d; padding: 10px; border-radius: 5px; margin: 5px;">
-<strong style="color: white;">CATEGORIES</strong>
-</td>
-<td align="center" style="background-color: #32cd32; padding: 10px; border-radius: 5px; margin: 5px;">
-<strong style="color: white;">6</strong>
-</td>
-<td align="center" style="background-color: #2d2d2d; padding: 10px; border-radius: 5px; margin: 5px;">
-<strong style="color: white;">STATUS</strong>
-</td>
-<td align="center" style="background-color: #00ff00; padding: 10px; border-radius: 5px; margin: 5px;">
-<strong style="color: white;">ACTIVE</strong>
-</td>
-<td align="center" style="background-color: #2d2d2d; padding: 10px; border-radius: 5px; margin: 5px;">
-<strong style="color: white;">UPDATED</strong>
-</td>
-<td align="center" style="background-color: #00ff00; padding: 10px; border-radius: 5px; margin: 5px;">
-<strong style="color: white;">REGULARLY</strong>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/APIS-6-blue?style=for-the-badge&labelColor=2d2d2d" alt="APIS" />
+<img src="https://img.shields.io/badge/CATEGORIES-6-limegreen?style=for-the-badge&labelColor=2d2d2d" alt="CATEGORIES" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=2d2d2d" alt="STATUS" />
+<img src="https://img.shields.io/badge/UPDATED-Regularly-brightgreen?style=for-the-badge&labelColor=2d2d2d" alt="UPDATED" />
 
 </div>
 
