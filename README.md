@@ -1,6 +1,22 @@
+<div align="center">
+
 # API Growth Stack
 
+![API Growth Stack](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1766341442596-Generated%20Image%20December%2021%2C%202025%20-%201_23PM.jpeg?alt=media&token=4d4fc0e9-9538-4b76-acee-b74c39fa8c42)
+
 A curated collection of powerful AI-powered APIs for website optimization, SEO, conversions, and social media growth. This stack covers everything from data extraction and copywriting to landing page optimization and automated social content generation. Built for developers, marketers, and founders who want real growth tools — not fluff.
+
+</div>
+
+<div align="center">
+
+**If this repo has helped you, consider buying me a coffee! ☕**
+
+This keeps me creating valuable repos and keeps everything up to date.
+
+<a href="https://www.buymeacoffee.com/viralwavestudio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+</div>
 
 ## 🚀 Overview
 
