@@ -2,8 +2,6 @@
 
 # API Growth Stack
 
-## 📊 Repository Stats
-
 <img src="https://img.shields.io/badge/APIS-6-blue?style=for-the-badge&labelColor=2d2d2d" alt="APIS" />
 <img src="https://img.shields.io/badge/CATEGORIES-6-limegreen?style=for-the-badge&labelColor=2d2d2d" alt="CATEGORIES" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=2d2d2d" alt="STATUS" />
