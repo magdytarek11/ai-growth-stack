@@ -2,20 +2,16 @@
 
 # API Growth Stack
 
-![API Growth Stack](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1766341442596-Generated%20Image%20December%2021%2C%202025%20-%201_23PM.jpeg?alt=media&token=4d4fc0e9-9538-4b76-acee-b74c39fa8c42)
-
-A curated collection of powerful AI-powered APIs for website optimization, SEO, conversions, and social media growth. This stack covers everything from data extraction and copywriting to landing page optimization and automated social content generation. Built for developers, marketers, and founders who want real growth tools — not fluff.
-
-</div>
-
-<div align="center">
-
 ## 📊 Repository Stats
 
 <img src="https://img.shields.io/badge/APIS-6-blue?style=for-the-badge&labelColor=2d2d2d" alt="APIS" />
 <img src="https://img.shields.io/badge/CATEGORIES-6-limegreen?style=for-the-badge&labelColor=2d2d2d" alt="CATEGORIES" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=2d2d2d" alt="STATUS" />
 <img src="https://img.shields.io/badge/UPDATED-Regularly-brightgreen?style=for-the-badge&labelColor=2d2d2d" alt="UPDATED" />
+
+![API Growth Stack](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1766341442596-Generated%20Image%20December%2021%2C%202025%20-%201_23PM.jpeg?alt=media&token=4d4fc0e9-9538-4b76-acee-b74c39fa8c42)
+
+A curated collection of powerful AI-powered APIs for website optimization, SEO, conversions, and social media growth. This stack covers everything from data extraction and copywriting to landing page optimization and automated social content generation. Built for developers, marketers, and founders who want real growth tools — not fluff.
 
 </div>
 
